@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpbarry
-- 👀 I’m interested in epidemiology broadly, specifically infectious disease modeling.
-- 🌱 I’m currently learning survival analysis.
+- 👀 I’m interested in epidemiology broadly, specifically the intersection of substance use and infectious diseases.
+- 🌱 I’m currently learning latent class analysis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mpbarry@uw.edu
 
