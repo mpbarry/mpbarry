@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mpbarry
-- 👀 I’m interested in epidemiology broadly, specifically the intersection of substance use and infectious diseases.
-- 🌱 I’m currently learning latent class analysis.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mpbarry@uw.edu
+- 👀 I’m interested in using data to answer complex questions.
+- 📫 How to reach me: emailmikebarry@gmail.com
 
 <!---
 mpbarry/mpbarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
